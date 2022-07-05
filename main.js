@@ -13,7 +13,7 @@ let scene = new ScrollMagic.Scene({
     triggerElement: headerFull,
     triggerHook: 0
 })
-    .addIndicators()
+    // .addIndicators()
     .setPin(headerFull)
     .addTo(controller);
 

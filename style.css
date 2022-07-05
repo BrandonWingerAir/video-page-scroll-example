@@ -25,8 +25,11 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 80px;
-    color: #efebe9;
+    color: #e0e0e0;
     z-index: 1;
+    font-family: 'Gulzar', serif;
+    text-transform: uppercase;
+    line-height: 110px;
 }
 
 section {
@@ -37,5 +40,5 @@ section {
 section h1 {
     padding-top: 300px;
     text-align: center;
-    font-size: 80px;
+    font-size: 75px;
 }
